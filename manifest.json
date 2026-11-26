@@ -1,0 +1,19 @@
+{
+  "name": "Agrupación N° 31 — Reserva Activa COMCOME",
+  "short_name": "COMCOME A31",
+  "description": "Control de asistencias de la Reserva Activa COMCOME.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#0a1931",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

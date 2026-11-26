@@ -1,0 +1,15 @@
+AGRUPACIÓN N° 31 — RESERVA ACTIVA COMCOME
+
+Todos los archivos se suben directamente a la RAÍZ del repositorio GitHub. No crees carpetas.
+Archivos:
+- index.html
+- manifest.json
+- sw.js
+- logo.png
+
+1. Crea un repositorio nuevo en GitHub.
+2. Descomprimí este ZIP y subí esos cuatro archivos directamente al nivel principal del repositorio.
+3. En Settings > Pages elegí Deploy from a branch, rama main y carpeta /(root). Guardá y esperá la URL pública.
+4. Abrí esa URL para verificarla y luego pegala en PWABuilder para generar el paquete Android.
+
+La app almacena los datos localmente en el navegador del dispositivo; no tiene sincronización multiusuario. Descargá respaldos JSON periódicamente. Los integrantes de ejemplo están identificados con “Ejemplo:” y deben editarse o eliminarse antes del uso real. jsPDF/AutoTable se cargan desde CDN, por lo que la generación de PDF requiere conexión a Internet.
